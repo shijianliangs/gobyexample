@@ -2,7 +2,10 @@ package main
 
 import "fmt"
 
+// https://gobyexample.com/hello-world
 func main() {
-	// 国际惯例
-	fmt.Println("Hello World")
+	fmt.Println("Hello World!") // 国际惯例
 }
+
+// ============== output ==============
+// Hello World
